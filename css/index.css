@@ -1,0 +1,66 @@
+.top-container {
+  position: relative;
+  background: #e52b41;
+}
+
+.bigText {
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+}
+
+#features {
+  position: relative;
+  text-align: center;
+  color: #343a40;
+}
+
+#features ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#features li>span{
+  font-weight: bold;
+}
+
+.carousel {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card {
+  margin: 10px 0 50px 0;
+}
+
+form {
+  padding: 30px;
+  background: #f8f9fa;
+  border: 2px solid #dedede;
+  border-radius: 5px;
+}
+
+form button {
+  float: right;
+  background: #e52b41;
+}
+
+.form-check {
+  padding-top: 10px;
+}
+
+.lead {
+  text-align: justify;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+footer a {
+  color: #e52b41;
+}
+
+footer a:hover {
+  color: #ff697b;
+  text-decoration: none;
+}

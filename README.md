@@ -1,2 +1,4 @@
 # youtube-video-hider
-Chrome extension to hide the video on youtube
+Youtube video hider website.
+Youtube video hider is a chrome extension to hide the videos in youtube.
+Check the website to see its features.
